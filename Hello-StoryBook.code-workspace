@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"esbenp.prettier-vscode",
+			"shd101wyy.markdown-preview-enhanced"
+		]
+	}
+}
